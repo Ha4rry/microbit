@@ -1,4 +1,3 @@
-# Imports go at the top
 from microbit import *
 
 squareroot = Image(
