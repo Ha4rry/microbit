@@ -23,6 +23,7 @@ opts = [
 ]
 
 # number input stage
+
 entering = True
 i = 0
 button_a.was_pressed()
@@ -51,7 +52,6 @@ while entering:
         else:
             entering = False
 
-# turn digits list into number n
 n = float(digits)
 
 # process and show square root
